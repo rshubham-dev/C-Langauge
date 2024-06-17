@@ -1,0 +1,1 @@
+age >= 18 ? printf("Adult") : printf("Not Adult");
